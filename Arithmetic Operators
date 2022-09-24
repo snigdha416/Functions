@@ -1,0 +1,10 @@
+Write a program to perform all the arithmetic operation including floor division by using a function.
+
+a=int(input())
+b=int(input())
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
